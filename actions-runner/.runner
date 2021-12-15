@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "jsp-C02Z41M0LVDR",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/MFSvcDhzijd5sgSDaTEdBmaItpfLItJqdKTISbSirwPeVMSwMo",
+  "gitHubUrl": "https://github.com/jsp-hashicorp/vault-action-example",
+  "workFolder": "_work"
+}
